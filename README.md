@@ -54,3 +54,13 @@ rodar o comando
 $ npm start
 ```
 
+
+## Telas
+
+Exemplo de saída
+
+Ao digitar por ex. "Av Paulista" e pressionar tecla Enter
+
+[[/exemplo.png|Exemplo do cliente]]
+
+
