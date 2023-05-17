@@ -61,6 +61,6 @@ Exemplo de saída
 
 Ao digitar por ex. "Av Paulista" e pressionar tecla Enter
 
-[[/exemplo.png|Exemplo do cliente]]
+![Imagem](/exemplo.png 'Exemplo do cliente')
 
 
