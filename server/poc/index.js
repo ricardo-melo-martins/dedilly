@@ -7,6 +7,12 @@ const app = express();
 app.set('trust proxy', true);
 app.use(bodyParser.json())
 
+import cors from 'cors';
+
+app.use(cors({
+    origin: '*' // TODO: for security use url allowed by client
+}));
+
 
 app.get('/', async (req, res, next) => {
 
